@@ -38,12 +38,9 @@ public class QuadradoPerfeito {
             }
         }
     }
-
         System.out.println(quantidade);
 
-
-
-}
+    }
 
 
 }
